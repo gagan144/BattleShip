@@ -1,0 +1,96 @@
+BTL_Autorun.swf Movie Report
+-----------------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+  216    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title>BattleShip :: Autorun</dc:title></rdf:Description></rdf:RDF>
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1         440402         440402    Scene 1 (AS 2.0 Classes Export Frame)
+      2              2         440404    
+      3              2         440406    
+      4              2         440408    
+      5             64         440472    
+      6             17         440489    
+      7             17         440506    
+      8             17         440523    
+      9             17         440540    
+     10             40         440580    
+     11             32         440612    
+     12             32         440644    
+     13             32         440676    
+     14             32         440708    
+     15            265         440973    
+     16             27         441000    
+     17             27         441027    
+     18             27         441054    
+     19            272         441326    
+     20             30         441356    
+     21             22         441378    
+     22             22         441400    
+     23             22         441422    
+     24            227         441649    
+     25             12         441661    
+     26             12         441673    
+     27             12         441685    
+     28             12         441697    
+     29            466         442163    
+     30           9757         451920    
+     31              2         451922    
+     32              2         451924    
+     33              2         451926    
+     34              2         451928    
+     35           3344         455272    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                               72          6524                   145
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Sound_on                               0             0                     0
+Sound_off                              0           156                     0
+Symbol 1                               0            44                     0
+Back_button                            0           680                     0
+User_guide_button                      0           136                     0
+Browse_button                          0           134                     0
+Credits_button                         0           126                     0
+Install_Button                         0           126                     0
+Trans_icon_bg                         39             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Eras Demi ITC                    46    
+Arial                          5492    
+Eurostar Black Extended        6891     BCDGIUadeilnorstuw
+
+ActionScript Bytes    Location
+------------------    --------
+                 6    Scene 1:button:1:No instance name assigned(Sound_off)
+                25    Scene 1:install:15:No instance name assigned(Install_Button)
+                30    Scene 1:UserGuid:19:No instance name assigned(User_guide_button)
+                 2    Scene 1:BG:29
+                30    Scene 1:UserGuid:29:No instance name assigned(User_guide_button)
+                11    Scene 1:Credits:29:No instance name assigned(Credits_button)
+                26    Scene 1:Browse:29:No instance name assigned(Browse_button)
+                 2    Scene 1:Sound:30
+                11    Scene 1:Back:30:No instance name assigned(Back_button)
+                 2    Scene 1:Credits_BG:35
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+Autorun_bg                    243898     1167688   JPEG Quality=100
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+Bg_music                   188983        11KHz Mono 16 kbps MP3
+
+
+
+
