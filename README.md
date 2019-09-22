@@ -2,7 +2,7 @@
 
 ![Logo](_doc/images/Logo_BLT.bmp)
 
-# BattleShip - Pacific Warriors
+# BattleShip - Pacific Warriors (2008-09)
 
 ‘BattleShip - Pacific Warriors ’ is a single player board game consisting of 10x10 grid containing 5 hidden enemy Ship.  Player’s  objective is to locate these ship and destroy them in specified number of missiles. You will require  17 shots to complete your game.
 
